@@ -16,8 +16,7 @@ server.use(express.static('public'))
     return res.sendFile(__dirname + '/ideias.html')
 })
 
- // liguei meu servidor na porta 4000
+ // liguei meu servidor na porta 3000
  server.listen(4000)
-
 
 
