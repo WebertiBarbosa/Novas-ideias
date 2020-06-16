@@ -15,13 +15,13 @@
 
 ---
 
-## 📋Sobre
+## 📋 Sobre
 
 O projeto **Casa Criativa** é um sistema web que foi criado durante o **WorkshopDev** da Rocketseat. 
 
 --- 
 
-## 🚀Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias.
 
